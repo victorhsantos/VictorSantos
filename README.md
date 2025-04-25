@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! 👋, I'm Victor Santos</h1>
 
-<h3 align="center">I'm a Backend Developer with over 13 years of experience in IT, specializing in scalable solutions with a strong focus on performance, security, and quality. I have solid experience in software architecture, system integration, and cloud applications using Azure and AWS.</h3>
+<h3 align="center">I'm a .NET Backend Developer with over 13 years of experience in IT, specializing in scalable solutions with a strong focus on performance, security, and quality. I have solid experience in software architecture, system integration, and cloud applications using Azure and AWS.</h3>
 
 <br>
 
